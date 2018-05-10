@@ -126,21 +126,12 @@ def num_points_scored(player_name)
     end
 
 
-  
+
   # find the player who's name == player_name
   # return that player's number of points scored.
 
 
-  
-  # get away: 
-   
+
+  # get away:
+
 end
-
-
-
-
-
-
-
-
-
