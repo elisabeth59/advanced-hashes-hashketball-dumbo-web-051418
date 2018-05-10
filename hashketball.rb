@@ -122,8 +122,9 @@ def num_points_scored(player_name)
 
   # look through game_hash to see the players
     game_hash.each do |location, team_stats|
-      team_stats[:players].each do |player_name, player_stats|
+      team_stats[:players].each do |name, player_stats|
         binding.pry
+        
       end
     end
 
